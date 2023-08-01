@@ -1,0 +1,3 @@
+[submodule "aiolite"]
+	path = aiolite
+	url = git@github.com:seitamuro/aiolite.git
